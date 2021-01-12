@@ -1,3 +1,3 @@
-# Python_Project_2020
+# Python_Project_2021
 
-The first Python Project is going to be in this repository. 
+The Python Project regarding an investigation of processes in Environmental Economics such as the relationship between CO2 emittions per capita and various world development indicators.
