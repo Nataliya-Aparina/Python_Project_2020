@@ -1,0 +1,22 @@
+,rank,company,percent,region,continent,Alpha-2 code,English short name lower case,Alpha-3 code,Numeric code,ISO 3166-2
+0,1,China National Coal Group Company Limited,14.32,Asia,AS,CN,China,CHN,156,ISO 3166-2:CN
+4,2,Saudi Arabian Oil Company (Aramco),4.5,Asia,AS,SA,Saudi Arabia,SAU,682,ISO 3166-2:SA
+6,3,Gazprom OAO,3.91,Asia,AS,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+13,4,National Iranian Oil Co,2.28,Asia,AS,IR,"Iran, Islamic Republic of",IRN,364,ISO 3166-2:IR
+14,5,ExxonMobil Corp,1.98,North America,,US,United States,USA,840,ISO 3166-2:US
+42,6,Coal India,1.87,Asia,AS,IN,India,IND,356,ISO 3166-2:IN
+45,7,Petroleos Mexicanos (Pemex),1.87,Latin America,SA,MX,Mexico,MEX,484,ISO 3166-2:MX
+7,8,Russia (Coal),1.86,Asia,AS,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+46,9,Royal Dutch Shell PLC,1.67,Europe,EU,NL,Netherlands,NLD,528,ISO 3166-2:NL
+1,10,China National Petroleum Corp (CNPC),1.56,Asia,AS,CN,China,CHN,156,ISO 3166-2:CN
+47,11,BP PLC,1.53,Europe,EU,GB,United Kingdom,GBR,826,ISO 3166-2:GB
+15,12,Chevron Corp,1.31,North America,,US,United States,USA,840,ISO 3166-2:US
+49,13,Petroleos de Venezuela SA (PDVSA),1.23,Latin America,SA,VE,"Venezuela, Bolivarian Republic of",VEN,862,ISO 3166-2:VE
+5,14,Abu Dhabi National Oil Co,1.2,Asia,AS,SA,Saudi Arabia,SAU,682,ISO 3166-2:SA
+50,15,Poland Coal,1.16,Europe,EU,PL,Poland,POL,616,ISO 3166-2:PL
+16,16,Peabody Energy Corp,1.15,North America,,US,United States,USA,840,ISO 3166-2:US
+51,17,Sonatrach SPA,1.0,Africa,AF,DZ,Algeria,DZA,12,ISO 3166-2:DZ
+52,18,Kuwait Petroleum Corp,1.0,Asia,AS,KW,Kuwait,KWT,414,ISO 3166-2:KW
+53,19,Total SA,0.95,Europe,EU,FR,France,FRA,250,ISO 3166-2:FR
+54,20,BHP Billiton Ltd,0.91,Oceaniy,OC,AU,Australia,AUS,36,ISO 3166-2:AU
+17,21,ConocoPhillips,0.91,North America,,US,United States,USA,840,ISO 3166-2:US

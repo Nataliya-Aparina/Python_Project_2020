@@ -1,0 +1,101 @@
+,rank,company,percent,region,continent,Alpha-2 code,English short name lower case,Alpha-3 code,Numeric code,ISO 3166-2
+0,1,China National Coal Group Company Limited,14.32,Asia,AS,CN,China,CHN,156,ISO 3166-2:CN
+4,2,Saudi Arabian Oil Company (Aramco),4.5,Asia,AS,SA,Saudi Arabia,SAU,682,ISO 3166-2:SA
+6,3,Gazprom OAO,3.91,Asia,AS,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+13,4,National Iranian Oil Co,2.28,Asia,AS,IR,"Iran, Islamic Republic of",IRN,364,ISO 3166-2:IR
+14,5,ExxonMobil Corp,1.98,North America,,US,United States,USA,840,ISO 3166-2:US
+42,6,Coal India,1.87,Asia,AS,IN,India,IND,356,ISO 3166-2:IN
+45,7,Petroleos Mexicanos (Pemex),1.87,Latin America,SA,MX,Mexico,MEX,484,ISO 3166-2:MX
+7,8,Russia (Coal),1.86,Asia,AS,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+46,9,Royal Dutch Shell PLC,1.67,Europe,EU,NL,Netherlands,NLD,528,ISO 3166-2:NL
+1,10,China National Petroleum Corp (CNPC),1.56,Asia,AS,CN,China,CHN,156,ISO 3166-2:CN
+47,11,BP PLC,1.53,Europe,EU,GB,United Kingdom,GBR,826,ISO 3166-2:GB
+15,12,Chevron Corp,1.31,North America,,US,United States,USA,840,ISO 3166-2:US
+49,13,Petroleos de Venezuela SA (PDVSA),1.23,Latin America,SA,VE,"Venezuela, Bolivarian Republic of",VEN,862,ISO 3166-2:VE
+5,14,Abu Dhabi National Oil Co,1.2,Asia,AS,SA,Saudi Arabia,SAU,682,ISO 3166-2:SA
+50,15,Poland Coal,1.16,Europe,EU,PL,Poland,POL,616,ISO 3166-2:PL
+16,16,Peabody Energy Corp,1.15,North America,,US,United States,USA,840,ISO 3166-2:US
+51,17,Sonatrach SPA,1.0,Africa,AF,DZ,Algeria,DZA,12,ISO 3166-2:DZ
+52,18,Kuwait Petroleum Corp,1.0,Asia,AS,KW,Kuwait,KWT,414,ISO 3166-2:KW
+53,19,Total SA,0.95,Europe,EU,FR,France,FRA,250,ISO 3166-2:FR
+54,20,BHP Billiton Ltd,0.91,Oceaniy,OC,AU,Australia,AUS,36,ISO 3166-2:AU
+17,21,ConocoPhillips,0.91,North America,,US,United States,USA,840,ISO 3166-2:US
+55,22,Petroleo Brasileiro SA (Petrobras),0.77,Latin America,SA,BR,Brazil,BRA,76,ISO 3166-2:BR
+8,23,Lukoil OAO,0.75,Europe,EU,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+48,24,Rio Tinto,0.75,Europe,EU,GB,United Kingdom,GBR,826,ISO 3166-2:GB
+56,25,Nigerian National Petroleum Corp,0.72,Africa,AF,NG,Nigeria,NGA,566,ISO 3166-2:NG
+57,26,Petroliam Nasional Berhad (Petronas),0.69,Asia,AS,MY,Malaysia,MYS,458,ISO 3166-2:MY
+9,27,Rosneft OAO,0.65,Europe,EU,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+18,28,Arch Coal Inc,0.63,North America,,US,United States,USA,840,ISO 3166-2:US
+58,29,Iraq National Oil Co,0.6,Asia,AS,IQ,Iraq,IRQ,368,ISO 3166-2:IQ
+59,30,Eni SPA,0.59,Europe,EU,IT,Italy,ITA,380,ISO 3166-2:IT
+60,31,Anglo American,0.59,Africa,AF,ZA,South Africa,ZAF,710,ISO 3166-2:ZA
+10,32,Surgutneftegas OAO,0.57,Asia,AS,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+19,33,Alpha Natural Resources Inc,0.54,North America,,US,United States,USA,840,ISO 3166-2:US
+63,34,Qatar Petroleum Corp,0.54,Asia,AS,QA,Qatar,QAT,634,ISO 3166-2:QA
+64,35,PT Pertamina,0.54,Asia,AS,ID,Indonesia,IDN,360,ISO 3166-2:ID
+71,36,Kazakhstan Coal,0.53,Asia,AS,KZ,Kazakhstan,KAZ,398,ISO 3166-2:KZ
+73,37,Statoil ASA,0.52,Europe,EU,NO,Norway,NOR,578,ISO 3166-2:NO
+75,38,National Oil Corporation of Libya,0.5,Africa,AF,LY,Libyan Arab Jamahiriya,LBY,434,ISO 3166-2:LY
+20,39,Consol Energy Inc,0.5,North America,,US,United States,USA,840,ISO 3166-2:US
+76,40,Ukraine Coal,0.49,Europe,EU,UA,Ukraine,UKR,804,ISO 3166-2:UA
+77,41,RWE AG,0.47,Europe,EU,DE,Germany,DEU,276,ISO 3166-2:DE
+43,42,Oil & Natural Gas Corp Ltd,0.4,Asia,AS,IN,India,IND,356,ISO 3166-2:IN
+78,43,Glencore PLC,0.38,Europe,EU,CH,Switzerland,CHE,756,ISO 3166-2:CH
+79,44,TurkmenGaz,0.36,Asia,AS,TM,Turkmenistan,TKM,795,ISO 3166-2:TM
+61,45,Sasol Ltd,0.35,Africa,AF,ZA,South Africa,ZAF,710,ISO 3166-2:ZA
+81,46,Repsol SA,0.33,Europe,EU,ES,Spain,ESP,724,ISO 3166-2:ES
+21,47,Anadarko Petroleum Corp,0.33,North America,,US,United States,USA,840,ISO 3166-2:US
+82,48,Egyptian General Petroleum Corp,0.31,Africa,AF,EG,Egypt,EGY,818,ISO 3166-2:EG
+83,49,Petroleum Development Oman LLC,0.31,Asia,AS,OM,Oman,OMN,512,ISO 3166-2:OM
+84,50,Czech Republic Coal,0.3,Europe,EU,CZ,Czech Republic,CZE,203,ISO 3166-2:CZ
+2,51,China Petrochemical Corp (Sinopec),0.29,Asia,AS,CN,China,CHN,156,ISO 3166-2:CN
+3,52,China National Offshore Oil Corp Ltd (CNOOC),0.28,Asia,AS,CN,China,CHN,156,ISO 3166-2:CN
+85,53,Ecopetrol SA,0.27,Latin America,SA,CO,Colombia,COL,170,ISO 3166-2:CO
+44,54,Singareni Collieries Company,0.27,Asia,AS,IN,India,IND,356,ISO 3166-2:IN
+22,55,Occidental Petroleum Corp,0.26,North America,,US,United States,USA,840,ISO 3166-2:US
+87,56,Sonangol EP,0.26,Africa,AF,AO,Angola,AGO,24,ISO 3166-2:AO
+11,57,Tatneft OAO,0.23,Europe,EU,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+88,58,North Korea Coal,0.23,Asia,AS,KP,"Korea, Democratic People's Republic of",PRK,408,ISO 3166-2:KP
+65,59,Bumi Resources,0.23,Asia,AS,ID,Indonesia,IDN,360,ISO 3166-2:ID
+89,60,Suncor Energy Inc,0.22,North America,,CA,Canada,CAN,124,ISO 3166-2:CA
+74,61,Petoro AS,0.21,Europe,EU,NO,Norway,NOR,578,ISO 3166-2:NO
+23,62,Devon Energy Corp,0.2,North America,,US,United States,USA,840,ISO 3166-2:US
+24,63,Natural Resource Partners LP,0.19,North America,,US,United States,USA,840,ISO 3166-2:US
+25,64,Marathon Oil Corp,0.19,North America,,US,United States,USA,840,ISO 3166-2:US
+26,65,Vistra Energy,0.19,North America,,US,United States,USA,840,ISO 3166-2:US
+27,66,Encana Corp,0.18,North America,,US,United States,USA,840,ISO 3166-2:US
+90,67,Canadian Natural Resources Ltd,0.17,North America,,CA,Canada,CAN,124,ISO 3166-2:CA
+28,68,Hess Corp,0.16,North America,,US,United States,USA,840,ISO 3166-2:US
+62,69,Exxaro Resources Ltd,0.16,Africa,AF,ZA,South Africa,ZAF,710,ISO 3166-2:ZA
+92,70,YPF SA,0.15,Latin America,SA,AR,Argentina,ARG,32,ISO 3166-2:AR
+29,71,Apache Corp,0.15,North America,,US,United States,USA,840,ISO 3166-2:US
+30,72,Murray Coal,0.15,North America,,US,United States,USA,840,ISO 3166-2:US
+31,73,Alliance Resource Partners LP,0.15,North America,,US,United States,USA,840,ISO 3166-2:US
+93,74,Syrian Petroleum Co,0.15,Asia,AS,SY,Syrian Arab Republic,SYR,760,ISO 3166-2:SY
+12,75,Novatek OAO,0.14,Europe,EU,RU,Russian Federation,RUS,643,ISO 3166-2:RU
+32,76,NACCO Industries Inc,0.13,North America,,US,United States,USA,840,ISO 3166-2:US
+72,77,KazMunayGas,0.13,Asia,AS,KZ,Kazakhstan,KAZ,398,ISO 3166-2:KZ
+66,78,Adaro Energy PT,0.13,Asia,AS,ID,Indonesia,IDN,360,ISO 3166-2:ID
+94,79,Petroleos del Ecuador,0.12,Latin America,SA,EC,Ecuador,ECU,218,ISO 3166-2:EC
+95,80,Inpex Corp,0.12,Asia,AS,JP,Japan,JPN,392,ISO 3166-2:JP
+33,81,Kiewit Mining Group,0.12,North America,,US,United States,USA,840,ISO 3166-2:US
+96,82,AP Moller (Maersk),0.11,Europe,EU,DK,Denmark,DNK,208,ISO 3166-2:DK
+97,83,Banpu Public Co Ltd,0.11,Asia,AS,TH,Thailand,THA,764,ISO 3166-2:TH
+34,84,EOG Resources Inc,0.11,North America,,US,United States,USA,840,ISO 3166-2:US
+35,85,Husky Energy Inc,0.11,North America,,US,United States,USA,840,ISO 3166-2:US
+67,86,Kideco Jaya Agung PT,0.1,Asia,AS,ID,Indonesia,IDN,360,ISO 3166-2:ID
+98,87,Bahrain Petroleum Co (BAPCO),0.1,Asia,AS,BH,Bahrain,BHR,48,ISO 3166-2:BH
+36,88,Westmoreland Coal Co,0.1,North America,,US,United States,USA,840,ISO 3166-2:US
+37,89,Cloud Peak Energy Inc,0.1,North America,,US,United States,USA,840,ISO 3166-2:US
+38,90,Chesapeake Energy Corp,0.1,North America,,US,United States,USA,840,ISO 3166-2:US
+86,91,Drummond Co,0.09,Latin America,SA,CO,Colombia,COL,170,ISO 3166-2:CO
+91,92,Teck Resources Ltd,0.09,North America,,CA,Canada,CAN,124,ISO 3166-2:CA
+80,93,Turkmennebit,0.07,Asia,AS,TM,Turkmenistan,TKM,795,ISO 3166-2:TM
+99,94,OMV AG,0.06,Europe,EU,AT,Austria,AUT,40,ISO 3166-2:AT
+39,95,Noble Energy Inc,0.06,North America,,US,United States,USA,840,ISO 3166-2:US
+40,96,Murphy Oil Corp,0.06,North America,,US,United States,USA,840,ISO 3166-2:US
+68,97,Berau Coal Energy Tbk PT,0.06,Asia,AS,ID,Indonesia,IDN,360,ISO 3166-2:ID
+69,98,Bukit Asam (Persero) Tbk PT,0.05,Asia,AS,ID,Indonesia,IDN,360,ISO 3166-2:ID
+70,99,Indika Energy Tbk PT,0.04,Asia,AS,ID,Indonesia,IDN,360,ISO 3166-2:ID
+41,100,Southwestern Energy Co,0.04,North America,,US,United States,USA,840,ISO 3166-2:US
