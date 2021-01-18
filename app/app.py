@@ -1,19 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Dash board
+Dashboard
 
 """
 import pandas as pd
-#import numpy as np
-#import bar_chart_race as bcr
-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-#from dash.dependencies import Input, Output
 import plotly.express as px
 import plotly.io as pio
-#from raceplotly.plots import barplot
 
 pio.templates.default = 'plotly_white'
 
@@ -21,8 +16,6 @@ colors = {'text': '#329d08'}
 
 # 1. LOAD DATA
 
-
-df1 = pd.read_csv('sectors_5main.csv')
 
 df2 = pd.read_csv('country_2018.csv')
 
@@ -33,19 +26,7 @@ df4 = pd.read_csv('21_companies.csv')
 df5 = pd.read_csv('100_company_grouped.csv')
 
 
-
 # 2. Create figuers for the dashboard
-
-fig_11 = px.bar(df1, 
-                    x="Sector", 
-                    y="Value", 
-                    color="Sector",
-                    animation_frame="date", 
-                    animation_group="Sector",
-                    title = 'Global CO2 emissions divided into 5 economic sectors (1990-2017)',
-                    #orientation='h',
-                    range_y=[0,40000])
-
 
 fig_22 = px.treemap(data_frame=df2,
                     values='co2_Gt',
@@ -98,7 +79,7 @@ app= dash.Dash()
 
 app.layout = html.Div(children=[
         html.H1(
-                children='VISUAL DASHBOARD - explore worldwide carbon emissions',
+                children='VISUAL DASHBOARD - explore worldwide carbon dioxide emissions',
                 style={
                     'textAlign': 'center',
                     'color': colors['text'],
@@ -107,11 +88,7 @@ app.layout = html.Div(children=[
     html.Div(children='''
     Data sources:  ✓ The World Bank  ✓ The Guardian  ✓ The Union of Concerned Scientists
     '''),
-    
-     dcc.Graph(
-        id='example-graph_11',
-        figure=fig_11),
-    
+     
     dcc.Graph(
         id='example-graph_22',
         figure=fig_22),
